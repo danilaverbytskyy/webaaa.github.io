@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Калькулятор</title>
+</head>
+<body>
+<h2>Составьте свой заказ</h2>
+
+<form>
+    <p>Выберите товар:
+    <select name="myselect" required>
+        <option value="1">Картошка 78</option>
+        <option value="2">Американо 33</option>
+        <option value="3">Наполеон 117</option>
+    </select>
+    </p>
+
+    <p>Введите количество: <input id="quantity" class="quantity"></p>
+
+    <div class="myradios" id="myradios">
+        <label><input type="radio" name="myradio" value="40">Кетчуп</label>
+        <label><input type="radio" name="myradio" value="40">Сырный соус</label>
+        <label><input type="radio" name="myradio" value="40">Чесночный соус</label>
+    </div>
+
+    <p class="mycheckbox" id="mycheckbox">
+        <label>
+            Нужен пакетик? <input value="10" type="checkbox">
+        </label>
+    </p>
+
+</form>
+
+<button id="button">Calculate</button>
+<p id="finalPrice"></p>
+<script src="calculate.js"></script>
+</body>
+</html>

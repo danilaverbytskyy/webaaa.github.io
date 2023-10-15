@@ -1,0 +1,12 @@
+#mycheckbox, .myradios {
+    display: block;
+    margin-top: 10px;
+}
+
+#mycheckbox {
+    display: none;
+}
+
+.myradios {
+    display: none;
+}
