@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec42d26b-f673-4b53-945d-fb1cc9862514" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/web2" beforeDir="false" afterPath="$PROJECT_DIR$/web2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web2/img/coke.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web2/img/figures.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web3" beforeDir="false" afterPath="$PROJECT_DIR$/web3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web6 - js2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web6 - js2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/Desktop/WEB/web5 - js",
+    "last_opened_file_path": "C:/Users/User/Desktop/WEB/web7",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -45,6 +49,7 @@
       <workItem from="1696442447016" duration="223000" />
       <workItem from="1696442844066" duration="7000" />
       <workItem from="1696923038034" duration="31000" />
+      <workItem from="1697743937992" duration="11000" />
     </task>
     <servers />
   </component>
